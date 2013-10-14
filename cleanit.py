@@ -1,5 +1,5 @@
 #!/usr/bin/python
-import sys, getopt, bs4
+import sys, getopt
 from lib.beautiful_soup import BeautifulSoup
 
 class Cleanit():
